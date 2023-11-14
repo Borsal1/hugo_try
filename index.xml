@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
+    <link>https://borsal1.github.io/hugo_try/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Nov 2023 12:29:27 +0100</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://borsal1.github.io/hugo_try/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bloubli</title>
-      <link>https://example.org/posts/bloubli/</link>
+      <link>https://borsal1.github.io/hugo_try/posts/bloubli/</link>
       <pubDate>Tue, 14 Nov 2023 12:29:27 +0100</pubDate>
-      <guid>https://example.org/posts/bloubli/</guid>
+      <guid>https://borsal1.github.io/hugo_try/posts/bloubli/</guid>
       <description>salut la steu</description>
     </item>
     <item>
       <title>helo</title>
-      <link>https://example.org/posts/blablou/</link>
+      <link>https://borsal1.github.io/hugo_try/posts/blablou/</link>
       <pubDate>Tue, 14 Nov 2023 10:29:55 +0100</pubDate>
-      <guid>https://example.org/posts/blablou/</guid>
+      <guid>https://borsal1.github.io/hugo_try/posts/blablou/</guid>
       <description>bliblou</description>
     </item>
   </channel>
